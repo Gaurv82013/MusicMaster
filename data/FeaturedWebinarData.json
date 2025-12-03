@@ -1,0 +1,74 @@
+{
+  "featuredWebinars": [
+    {
+      "id": 1,
+      "title": "Future of Music Technology",
+      "slug": "future-of-music-technology",
+      "description": "Explore how AI, VR, and immersive tools are transforming the way music is created and experienced.",
+      "isFeatured": true
+    },
+    {
+      "id": 2,
+      "title": "Songwriting Secrets",
+      "slug": "songwriting-secrets",
+      "description": "Learn advanced techniques for crafting lyrics and melodies that connect deeply with audiences.",
+      "isFeatured": false
+    },
+    {
+      "id": 3,
+      "title": "Mastering Live Performance",
+      "slug": "mastering-live-performance",
+      "description": "Discover strategies to build stage confidence, engage audiences, and deliver unforgettable shows.",
+      "isFeatured": true
+    },
+    {
+      "id": 4,
+      "title": "Music Business 101",
+      "slug": "music-business-101",
+      "description": "Understand contracts, royalties, and marketing essentials to grow your career in the music industry.",
+      "isFeatured": false
+    },
+    {
+      "id": 5,
+      "title": "Mixing & Mastering Masterclass",
+      "slug": "mixing-mastering-masterclass",
+      "description": "Get hands-on insights into professional mixing and mastering workflows used in top studios.",
+      "isFeatured": true
+    },
+    {
+      "id": 6,
+      "title": "Global Rhythms",
+      "slug": "global-rhythms",
+      "description": "Dive into world music traditions and learn how to incorporate diverse rhythms into your compositions.",
+      "isFeatured": false
+    },
+    {
+      "id": 7,
+      "title": "Building a Music Brand",
+      "slug": "building-a-music-brand",
+      "description": "Discover how to create a strong identity, design visuals, and connect with fans authentically.",
+      "isFeatured": true
+    },
+    {
+      "id": 8,
+      "title": "Digital Distribution Demystified",
+      "slug": "digital-distribution-demystified",
+      "description": "Learn how to release your music on streaming platforms and maximize your reach globally.",
+      "isFeatured": false
+    },
+    {
+      "id": 9,
+      "title": "Jazz Improvisation Live",
+      "slug": "jazz-improvisation-live",
+      "description": "Join expert musicians as they break down improvisation techniques and perform live demonstrations.",
+      "isFeatured": true
+    },
+    {
+      "id": 10,
+      "title": "Music for Film & Games",
+      "slug": "music-for-film-games",
+      "description": "Explore the art of composing soundtracks and scores that enhance storytelling in visual media.",
+      "isFeatured": false
+    }
+  ]
+}

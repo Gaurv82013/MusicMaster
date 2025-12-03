@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Piano Essentials",
+      "slug": "piano-essentials",
+      "description": "Master the fundamentals of piano playing with step-by-step lessons for beginners.",
+      "price": 89.99,
+      "instructor": "Alice Harmony",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1511376777868-611b54f68947"
+    },
+    {
+      "id": 2,
+      "title": "Music Theory Basics",
+      "slug": "music-theory-basics",
+      "description": "Understand the building blocks of music including scales, chords, and rhythm.",
+      "price": 59.99,
+      "instructor": "Dr. Theo Soundwell",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1507838153414-b4b713384a76"
+    },
+    {
+      "id": 3,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Create beats and tracks using popular DAWs like Ableton and FL Studio.",
+      "price": 129.99,
+      "instructor": "DJ Nova",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4"
+    },
+    {
+      "id": 4,
+      "title": "Vocal Training for Beginners",
+      "slug": "vocal-training-beginners",
+      "description": "Improve your vocal range, tone, and confidence with guided vocal exercises.",
+      "price": 74.99,
+      "instructor": "Melody Starr",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e"
+    },
+    {
+      "id": 5,
+      "title": "Jazz Improvisation Techniques",
+      "slug": "jazz-improvisation-techniques",
+      "description": "Learn to improvise like a pro with jazz scales, phrasing, and soloing tips.",
+      "price": 99.99,
+      "instructor": "Miles Groove",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba"
+    },
+    {
+      "id": 6,
+      "title": "Drumming Fundamentals",
+      "slug": "drumming-fundamentals",
+      "description": "Explore rhythm, timing, and basic drum patterns for acoustic and electronic kits.",
+      "price": 79.99,
+      "instructor": "Tommy Beat",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1510915228340-29c85a43dcfe"
+    },
+    {
+      "id": 7,
+      "title": "Songwriting Masterclass",
+      "slug": "songwriting-masterclass",
+      "description": "Craft compelling lyrics and melodies with guidance from award-winning songwriters.",
+      "price": 109.99,
+      "instructor": "Lyra Penn",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1507874457470-272b3c8d8ee2"
+    },
+    {
+      "id": 8,
+      "title": "Classical Guitar Techniques",
+      "slug": "classical-guitar-techniques",
+      "description": "Refine your fingerstyle and classical repertoire with expert instruction.",
+      "price": 94.99,
+      "instructor": "Carlos Sereno",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1513105737059-ff0cf0580b16"
+    },
+    {
+      "id": 9,
+      "title": "Mixing and Mastering",
+      "slug": "mixing-and-mastering",
+      "description": "Polish your tracks with professional mixing and mastering workflows.",
+      "price": 139.99,
+      "instructor": "Echo Engineer",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4"
+    },
+    {
+      "id": 10,
+      "title": "World Music Exploration",
+      "slug": "world-music-exploration",
+      "description": "Discover musical traditions from around the globe and learn to play ethnic instruments.",
+      "price": 69.99,
+      "instructor": "Ravi Rhythm",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1507874457470-272b3c8d8ee2"
+    }
+  ]
+}
