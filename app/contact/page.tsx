@@ -28,7 +28,7 @@ export default function ContactPage() {
       <div className='max-w-3xl w-full mx-auto relative z-10'>
         {/* Header */}
         <div className='text-center mb-12'>
-          <h1 className='text-5xl md:text-6xl font-bold mb-4'>Send Us a Message</h1>
+          <h1 className=' text-green-500 text-5xl md:text-6xl font-bold mb-4'>Send Us a Message</h1>
           <p className='text-lg text-gray-400'>
             Have questions about our courses? Drop us a message and we will respond as soon as possible.
           </p>
