@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import featureData from '@/data/featureData.json';
 
 interface Course{
@@ -31,9 +32,12 @@ export default function CoursesPage() {
                     >
                         {/* Image Container */}
                         <div className='relative h-56 overflow-hidden'>
-                            <img
+                            
+                            <Image
                                 src={course.image}
                                 alt={course.title}
+                                fill
+                                sizes="(min-width:1024px) 33vw, (min-width:768px) 50vw, 100vw"
                                 className='w-full h-full object-cover group-hover:scale-110 transition-transform duration-500'
                             />
                             <div className='absolute inset-0 bg-gradient-to-t from-black/80 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300' />
