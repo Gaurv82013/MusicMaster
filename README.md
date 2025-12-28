@@ -2,6 +2,29 @@
 
 A modern, responsive music learning platform built with Next.js 16, React 19, TypeScript, and Tailwind CSS. Features beautiful animations powered by Motion (Framer Motion) and a comprehensive course catalog.
 
+<img width="951" height="439" alt="Screenshot 2025-12-04 070739" src="https://github.com/user-attachments/assets/d6270358-c554-4573-96c6-a52cb19bf9aa" />
+
+<img width="949" height="437" alt="Screenshot 2025-12-04 070808" src="https://github.com/user-attachments/assets/68455256-5a2c-4ad4-a09d-26757716f808" />
+
+<img width="960" height="439" alt="Screenshot 2025-12-04 071452" src="https://github.com/user-attachments/assets/a13ac8f9-1b7f-4e34-b987-dca32e393d35" />
+
+
+<img width="948" height="441" alt="Screenshot 2025-12-04 070836" src="https://github.com/user-attachments/assets/f64ecda1-0aba-4cbe-ac04-dcd509baa411" />
+
+<img width="960" height="438" alt="Screenshot 2025-12-04 071514" src="https://github.com/user-attachments/assets/27111261-1f45-4d26-a383-f536e069112e" />
+
+
+<img width="948" height="437" alt="Screenshot 2025-12-04 070913" src="https://github.com/user-attachments/assets/c97e0b1a-07f3-455e-880c-79e29c325a93" />
+
+<img width="960" height="437" alt="Screenshot 2025-12-04 070941" src="https://github.com/user-attachments/assets/1fca630f-18b3-43f9-b542-cc57c317fdcb" />
+
+<img width="959" height="439" alt="Screenshot 2025-12-04 071008" src="https://github.com/user-attachments/assets/e63eb34c-0e8e-4a91-9554-1151a7479b01" />
+
+<img width="960" height="440" alt="Screenshot 2025-12-04 071045" src="https://github.com/user-attachments/assets/0e482782-7bfb-4bc0-b00a-5c9c1cf49d4e" />
+
+
+
+
 ## ✨ Features
 
 - 🎨 Modern UI with Tailwind CSS 4
